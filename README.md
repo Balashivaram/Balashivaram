@@ -1,14 +1,14 @@
 ### Hello Guys
 # <div align="center">I am Balashivaram Ganesan</div>
 <br>
-## <div align="center"> From Tamil Nadu,India</div>
+<div align="center"> From Tamil Nadu,India</div>
 
 
 ## I'm a Developer,Student !!
 
-- 🌱 I’m currently learning Flutter & Dart
-- 👯 I’m looking to collaborate with Web Developers
-- 📚 Second Year student from Amrita Vishwa Vidyapeetham
+- 🌱 Trying to learn new stuffs on Cyber Security
+- 👯 I’m ready to colloborate with other developers
+- 📚 Second Year student @ Amrita Vishwa Vidyapeetham
 - ⚡ Fun fact: I watch movies and series
 
 ### Connect with me:
