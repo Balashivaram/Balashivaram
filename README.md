@@ -18,7 +18,7 @@
 [<a target="_blank" href="https://twitter.com/Bala79206890"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>][twitter]
 [<a target="_blank" href="https://www.instagram.com/veterean_juggler"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>][instagram]
 [<a target="_blank" href="https://www.linkedin.com/in/balashivaram-g-a6765420a/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>][linkedin]
-[<a href="balashivaramg@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>][gmail]
+[<a href="balashivaramg@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>]
 <br />
 
 ### Languages and Tools:
